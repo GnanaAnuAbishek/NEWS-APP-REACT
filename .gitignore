@@ -12,8 +12,8 @@ dist
 dist-ssr
 *.local
 
-.env
-VITE_API_KEY=08ae50d7198c41369d930218394a58ee
+# .env
+# VITE_API_KEY=08ae50d7198c41369d930218394a58ee
 
 # Editor directories and files
 .vscode/*
